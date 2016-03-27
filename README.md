@@ -1,6 +1,6 @@
 # TYG-MashUp
 
-**Yelp:**
+###**Yelp:**
 
 List business with id:
 
@@ -25,7 +25,7 @@ see:
 https://www.yelp.ca/developers/documentation/v2/search_api
 for more info
 
-**Twitter:**
+###**Twitter:**
 
 List tweets with search term:
 
@@ -40,7 +40,7 @@ see:
 https://www.yelp.ca/developers/documentation/v2/business
 for more info
 
-**Weather:**
+###**Weather:**
 
 Gives current weather and forecast up to amount of days:
 
