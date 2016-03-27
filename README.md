@@ -17,9 +17,9 @@ List business with search term:
 *location and term are mandatory
 
 Optional Query params:
-**&sort=
-**&radius=
-**&limit=
+&sort=
+&radius=
+&limit=
 
 see:
 https://www.yelp.ca/developers/documentation/v2/search_api
@@ -32,9 +32,9 @@ List tweets with search term:
 **GET /api/tweets/search/{query}**
 
 Optional Query params:
-**&until=
-**&since=
-**&maxTweets=
+&until=
+&since=
+&maxTweets=
 
 see:
 https://www.yelp.ca/developers/documentation/v2/business
