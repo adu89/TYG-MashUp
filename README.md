@@ -32,9 +32,9 @@ List tweets with search term:
 **GET /Mashup6/api/tweets/search/{query}**
 
 Optional Query params:
-&until
-&since
-&maxTweets
+&until=
+&since=
+&maxTweets=
 
 see:
 https://www.yelp.ca/developers/documentation/v2/business
