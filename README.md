@@ -4,7 +4,7 @@
 
 List business with id:
 
-**GET /Mashup6/api/restaurants/{id}**
+**GET /api/restaurants/{id}**
 
 see:
 https://www.yelp.ca/developers/documentation/v2/business
@@ -12,7 +12,7 @@ for more info
 
 List business with search term:
 
-**GET /Mashup6/api/restaurants/search/term?location=alaska**
+**GET /api/restaurants/search/term?location=alaska**
 
 *location and term are mandatory
 
@@ -29,7 +29,7 @@ for more info
 
 List tweets with search term:
 
-**GET /Mashup6/api/tweets/search/{query}**
+**GET /api/tweets/search/{query}**
 
 Optional Query params:
 &until=
@@ -44,7 +44,7 @@ for more info
 
 Gives current weather and forecast up to amount of days:
 
-**GET /Mashup6/api/weather?lat=10&lon=10&days=2**
+**GET /api/weather?lat=10&lon=10&days=2**
 
 see:
 https://www.apixu.com/api-explorer.aspx
