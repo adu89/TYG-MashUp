@@ -1,6 +1,6 @@
 # TYG-MashUp
 
-Yelp:
+**Yelp:**
 
 List business with id:
 
