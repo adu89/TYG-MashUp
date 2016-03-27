@@ -37,7 +37,7 @@ Optional Query params:
 &maxTweets=
 
 see:
-https://www.yelp.ca/developers/documentation/v2/business
+https://dev.twitter.com/rest/public/search
 for more info
 
 ###**Weather:**
