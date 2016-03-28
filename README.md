@@ -12,7 +12,7 @@ for more info
 
 List business with search term:
 
-**GET http://104.196.29.14/TYG-MashUp-master/api/restaurants/search/term?location=alaska**
+**GET http://104.196.29.14/TYG-MashUp-master/api/restaurants/search/{term}?location={location}**
 
 *location and term are mandatory
 
@@ -44,7 +44,7 @@ for more info
 
 Gives current weather and forecast up to amount of days:
 
-**GET http://104.196.29.14/TYG-MashUp-master/api/weather?lat=10&lon=10&days=2**
+**GET http://104.196.29.14/TYG-MashUp-master/api/weather?lat={lat}&lon={lon}&days={days}**
 
 see:
 https://www.apixu.com/api-explorer.aspx
